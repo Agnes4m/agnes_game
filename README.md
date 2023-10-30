@@ -7,21 +7,21 @@
 
 <div align="center">
 
-# nonebot_plugin_levelup
+# agens_game
 
 _✨ 群内挂机pk小游戏 ✨_
 
-<a href="https://github.com/Agnes4m/nonebot_plugin_levelup/stargazers">
-        <img alt="GitHub stars" src="https://img.shields.io/github/stars/Agnes4m/nonebot_plugin_levelup" alt="stars">
+<a href="https://github.com/Agnes4m/agens_game/stargazers">
+        <img alt="GitHub stars" src="https://img.shields.io/github/stars/Agnes4m/agens_game" alt="stars">
 </a>
-<a href="https://github.com/Agnes4m/nonebot_plugin_levelup/issues">
-        <img alt="GitHub issues" src="https://img.shields.io/github/issues/Agnes4m/nonebot_plugin_levelup" alt="issues">
+<a href="https://github.com/Agnes4m/agens_game/issues">
+        <img alt="GitHub issues" src="https://img.shields.io/github/issues/Agnes4m/agens_game" alt="issues">
 </a>
 <a href="https://jq.qq.com/?_wv=1027&k=HdjoCcAe">
         <img src="https://img.shields.io/badge/QQ%E7%BE%A4-399365126-orange?style=flat-square" alt="QQ Chat Group">
 </a>
-<a href="https://pypi.python.org/pypi/nonebot_plugin_levelup">
-        <img src="https://img.shields.io/pypi/v/nonebot_plugin_levelup.svg" alt="pypi">
+<a href="https://pypi.python.org/pypi/agens_game">
+        <img src="https://img.shields.io/pypi/v/agens_game.svg" alt="pypi">
 </a>
     <img src="https://img.shields.io/badge/python-3.8 | 3.9 | 3.10 | 3.11-blue.svg" alt="python">
     <img src="https://img.shields.io/badge/nonebot-2.0.* | 2.1.*-red.svg" alt="NoneBot">
