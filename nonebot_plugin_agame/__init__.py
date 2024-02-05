@@ -1,6 +1,6 @@
 import contextlib
 
-from nonebot import on_command, require
+from nonebot import require
 from nonebot.plugin import PluginMetadata, inherit_supported_adapters
 from tortoise import run_async
 
